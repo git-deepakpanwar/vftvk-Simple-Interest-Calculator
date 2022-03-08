@@ -48,6 +48,9 @@ border-radius: 25px;
   width: 70%;
   padding: 0px 0.5rem;
   border: 1px solid #d1d1d1;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
 }
 
 #years{
@@ -56,6 +59,9 @@ border-radius: 25px;
   width: 70%;
   padding: 0px 0.5rem;
   border: 1px solid #d1d1d1;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
 }
 .interestbtn{
   min-width: 150px;
