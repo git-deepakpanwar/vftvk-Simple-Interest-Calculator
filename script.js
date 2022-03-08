@@ -27,6 +27,6 @@ function compute()
 function updateRate(){
     let rateval = document.getElementById("rate").value;
     //replace dynamic input to the span field in form
-    document.getElementById("rate_val").innerText=rateval;
+    document.getElementById("rate_val").innerText=rateval+'%';
 }
 
